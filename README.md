@@ -7,7 +7,7 @@ Welcome to by Github profile.
 Currently my profile features personal and education projects.
 
 ## What I'm working on
-- Spotify app for walkers, joggers and runners. Using the BPM for the users liked songs, create playlists for different walking/running speeds. Created with Typescript.
+- Web app to create invoices based on tracked time in a calendar view
 
 ## Future project ideas
 - Flight search app that overlays weather information to find the best time to visit a location
